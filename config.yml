@@ -1,0 +1,134 @@
+baseURL: "https://qvieth.github.io"
+title: qvieth
+theme: PaperMod
+paginate: 5
+
+params:
+    homeInfoParams:
+        Title: "My blog"
+        Content: 
+            Hello, I'm Viet. Welcome to my blog.
+
+            - Cleaning step done, wating for the first post...
+
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    author: qvieth
+    description: "Hello, I'm Viet"
+    defaultTheme: auto
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowToc: true
+    TocOpen: false
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+    comments: true
+    displayFullLangName: true
+    ShowCodeCopyButtons: true
+    images: ["qvieth.png"]
+
+    socialIcons:
+        - name: facebook
+          url: "https://facebook.com/blueberry.not.viethuynh"
+        - name: instagram
+          url: "https://instagram.com/blueberrynotvh"
+        - name: github
+          url: "https://github.com/qvieth"
+        - name: email
+          url: "mailto:hhq.viet@gmail.com"
+        - name: steam
+          url: "https://steamcommunity.com/id/qvieth"
+
+    label:
+        text: "Home"
+        icon: "/favicon.svg"
+        iconHeight: 45
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    assets:
+        favicon: "favicon.svg"
+        favicon16x16: "favicon.svg"
+        favicon32x32: "favicon.svg"
+        apple_touch_icon: "favicon.svg"
+        safari_pinned_tab: "favicon.svg"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Categories
+                  url: categories/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 15
+                - name: Search
+                  url: search/
+                  weight: 20
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+# https://gohugo.io/content-management/taxonomies#readout
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        # noClasses: false
+        style: monokai
+
+# https://gohugo.io/about/hugo-and-gdpr/
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
+
+minify:
+    disableXML: true
+    minifyOutput: true
