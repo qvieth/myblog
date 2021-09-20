@@ -9,7 +9,7 @@ params:
         Content: 
             Hello, I'm Viet. Welcome to my blog.
 
-            - Cleaning step done, wating for the first post...
+           - Here, you will mainly find my books reviews and thoughts about various topics including but not limited to philosophy, mathematics, and psychology.
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     author: qvieth
@@ -72,12 +72,17 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
+                - name: Series
+                  url: series
+                  weight: 13
                 - name: Tags
                   url: tags/
                   weight: 15
                 - name: Search
                   url: search/
                   weight: 20
+                # - name: NullLink
+                #   url: "#"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
