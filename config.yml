@@ -9,8 +9,6 @@ params:
         Content: 
             Hello, I'm Viet. Welcome to my blog.
 
-           - Here, you will mainly find my books reviews and thoughts about various topics including but not limited to philosophy, mathematics, and psychology.
-
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     author: qvieth
     description: "Hello, I'm Viet"
