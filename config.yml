@@ -32,14 +32,14 @@ params:
     images: ["qvieth.png"]
 
     socialIcons:
+        - name: email
+          url: "mailto:hhq.viet@gmail.com"
         - name: twitter
           url: "https://twitter.com/hhq_viet"
         - name: instagram
           url: "https://instagram.com/blueberrynotvh"
         - name: github
           url: "https://github.com/qvieth"
-        - name: email
-          url: "mailto:hhq.viet@gmail.com"
         - name: steam
           url: "https://steamcommunity.com/id/qvieth"
 
