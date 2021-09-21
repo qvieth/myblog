@@ -7,11 +7,16 @@ params:
     homeInfoParams:
         Title: "My blog"
         Content: 
-            Hello, I'm Viet. Welcome to my blog.
+            Hi! My name is Viet. I'm a Vietnamese, currently a Finance major Junior at Ming Chuan University, Taiwan.
+
+            - My interests vary, I read books in my free time, talk to my friends debating about technological issues, also I do love sports and games. Topics in which i'm most interest are Mathematics, Philosophy, Psychology, Artificial Intelligence. I’m always open to conversations and social interations.
+
+            - On this channel, I will mainly do book reviews, analytics on social issues or any issues that I find captivating.
+
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     author: qvieth
-    description: "Hello, I'm Viet"
+    description: "Hello, I'm Viet, QVIETH is my blog. I hope you find some ideas useful to you here"
     defaultTheme: auto
     ShowShareButtons: true
     ShowReadingTime: true
@@ -25,8 +30,8 @@ params:
     images: ["qvieth.png"]
 
     socialIcons:
-        - name: facebook
-          url: "https://facebook.com/blueberry.not.viethuynh"
+        - name: twitter
+          url: "https://twitter.com/hhq_viet"
         - name: instagram
           url: "https://instagram.com/blueberrynotvh"
         - name: github
