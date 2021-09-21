@@ -11,7 +11,9 @@ params:
 
             - My interests vary, I read books in my free time, talk to my friends debating about technological issues, also I do love sports and games. Topics in which I'm most interested are Mathematics, Psychology, and Artificial Intelligence.
 
-            - On this channel, I will mainly do book reviews, analytics on social issues or any issue I find captivating. I’m always open to conversations and social interactions.
+            - On this channel, I will mainly do book reviews, analytics on social issues or any issue I find captivating.
+
+            - I’m always open to conversations and social interactions; below are the platforms I'm most often on.
 
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
