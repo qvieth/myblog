@@ -9,9 +9,9 @@ params:
         Content: 
             Hi! My name is Viet. I'm a Vietnamese, currently a Finance major Junior at Ming Chuan University, Taiwan.
 
-            - My interests vary, I read books in my free time, talk to my friends debating about technological issues, also I do love sports and games. Topics in which i'm most interest are Mathematics, Philosophy, Psychology, Artificial Intelligence. I’m always open to conversations and social interations.
+            - My interests vary, I read books in my free time, talk to my friends debating about technological issues, also I do love sports and games. Topics in which I'm most interested are Mathematics, Philosophy, Psychology, Artificial Intelligence. I’m always open to conversations and social interactions.
 
-            - On this channel, I will mainly do book reviews, analytics on social issues or any issues that I find captivating.
+            - On this channel, I will mainly do book reviews, analytics on social issues or any issue I find captivating.
 
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
