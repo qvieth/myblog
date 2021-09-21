@@ -6,19 +6,19 @@ paginate: 5
 params:
     homeInfoParams:
         Title: "My blog"
-        Content: 
+        Content: >
             Hi! My name is Viet. I'm a Vietnamese, currently a Finance major Junior at Ming Chuan University, Taiwan.
 
-            - My interests vary, I read books in my free time, talk to my friends debating about technological issues, also I do love sports and games. Topics in which I'm most interested are Mathematics, Psychology, and Artificial Intelligence.
+            - My interests vary: In my free time, I read books, talk to friends debating about technological issues, or sometimes play sports or games... Topics in which I'm most interested are Mathematics, Psychology, and Artificial Intelligence.
 
-            - On this channel, I will mainly do book reviews, and analytics on social issues or any issue I find captivating.
+            - On this channel, you will mainly find my book reviews, sometimes analytics on social issues or any issue I find captivating.
 
-            - I’m always open to conversations and social interactions; below are the platforms I'm most often on.
+            - I’m always open to conversations and social interactions; below are the platforms I'm most often on:
 
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     author: qvieth
-    description: "Hello, I'm Viet, QVIETH is my blog. I hope you find some ideas useful to you here"
+    description: "Hello, I'm Viet, QVIETH is my blog. I hope you find some ideas useful to you here!"
     defaultTheme: auto
     ShowShareButtons: true
     ShowReadingTime: true
