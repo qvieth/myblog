@@ -9,7 +9,9 @@ categories: ["Uncategorized"]
 # weight: 1
 ---
 
-write your **purpose** first
+```scaffold
+blankpage -> purpose -> signpost -> draft -> revise
+```
 
 # Lorem ipsum
 

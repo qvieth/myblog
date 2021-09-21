@@ -1,6 +1,6 @@
 ---
-title: Writing A Self Introduction Is Much Harder I Thought!
-summary: This is not a self introduction post,... or perhaps at least not official really...
+title: Confession of a Quiet Kid
+summary: being called a quiet kid by many people, now i can finally show to the world that i'm not that really quiet,
 draft: true
 date: 2021-09-20T17:48:44+07:00
 categories: ["Uncategorized",]
