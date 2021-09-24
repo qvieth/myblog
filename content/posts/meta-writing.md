@@ -11,7 +11,7 @@ tags: ["writing","insecurity","planning"]
 # blankpage -> purpose -> signpost -> drafting -> revising
 ---
 
-DRAFT -> not finished, come back when i have time, put it here so my blog looks like it is not dead
+**DRAFT -> not finished, come back when i have time, tommorow maybe, put it here so my blog looks like it is not dead**
 
 When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". I belive writing would benefit me a lot with my growth: By writing, I can organize my thought, I can express my feelings better, and I would understand ideas at the deepest level.
 
