@@ -13,7 +13,7 @@ categories: ["Uncategorized"]
 
 Dear My Avid Readers,
 
-This blog is currently on early stage. And as the so-called "quiet boy" writer is struggling on learning writing and socializing, if you do care about the future of this blog, perhaps can you leave a comment down below to encourage, share ideas, or ask any question you think that would help the writer?
+This blog is currently on early stage. And as the so-called "quiet boy" writer is struggling on learning writing and socializing, if you do care about the future of this blog, perhaps could you leave a comment down below to encourage, share ideas, or ask any question you think that would help the writer?
 
 Sincerely,
 
