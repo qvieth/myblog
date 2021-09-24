@@ -13,6 +13,8 @@ tags: ["writing", "insecurity", "planning"]
 
 **DRAFT -> not finished, come back when i have time, tommorow maybe, put it here so my blog looks like it is not dead**
 
+**update: this is day 2 and i just done my writing an hour a day chore, this is really good start. Now i need to clean up some chore of school work. Hope the next days would be this great again - Sep 25 06:51:55 AM +07 2021**
+
 When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". I belive writing would benefit me a lot with my growth: By writing, I can organize my thought, I can express my feelings better, and I would understand ideas at the deepest level.
 
 Achieving that goal wasn't as straightforward as setting it. I thought by just reading enough on the topics, on writing itself and on the issue I want to mention, I can start to write, smoothly. But when I start puttting my hands on the keyboard, as I typing the words out, that really bad kind of anxiety crept in - the insecurity boy: I'm starting worrying about how my bad grammar will be discovered and judged, worrying about the issues that being discussed are "who cares!", and worrying that the vocabulary being used is boring, dull or awkward. Then I told myself: "I can't write, at least for now; this is not the right time and the right mood; God, is this taking forever?". These thoughts have haunted me for years since i was a school boy til even now.
@@ -29,9 +31,9 @@ A small note on this — This book title of professor Joseph M. Williams is the 
 
 > Whenever we reflect on what we do as we do it, we become self-conscious, sometimes to the point of paralysis. It passes. You can avoid some of that paralysis if you remember that these principles have little to do with how you draft much to do with how you revise. If there is a first principle of drafting, it’s to forget all advice about how to do it.
 
-Enough doing marketing for the book, although the offered insight is a golden, I still feel like there's something missing, some final piece for my writing formula: It is the scaffolding - this time i stole this idea from a course on writing for business by Dr. Quentin McAndrew. You can check this course out [here](https://www.coursera.org/learn/writing-for-business).
+Enough doing marketing for the book, although the offered insight is a golden, I still feel like there's something missing, some final piece for my writing formula: It is the window-pane and the scaffolding - this time i stole this idea from a course on writing for business by Dr. Quentin McAndrew. You can check this course out [here](https://www.coursera.org/learn/writing-for-business).
 
-It all start with thinking: by thinking, you can start generating ideas, by thinking, you should stop putting your hand on the computer - i mean i like computer but that distracts me a little bit sometimes. Thinking should be seperated from anything else. Do things only once at a time, do not multitasking and let thinking flow. So there it is, the first principle of the process: "seperate thinking from writing"
+The last piece I want to introduce it myself is: It all start with thinking: by thinking, you can start generating ideas, by thinking, you should stop putting your hand on the computer - I mean I like computer but that distracts me a little bit sometimes. Thinking should be seperated from anything else. Do things only once at a time, do not multitasking and let thinking flow. So there it is, the first principle of the process: "seperate thinking from writing"
 
 ### First principle: Seperate thinking from writing
 
