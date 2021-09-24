@@ -29,7 +29,7 @@ A small note on this — This book title of professor Joseph M. Williams is the 
 
 > Whenever we reflect on what we do as we do it, we become self-conscious, sometimes to the point of paralysis. It passes. You can avoid some of that paralysis if you remember that these principles have little to do with how you draft much to do with how you revise. If there is a first principle of drafting, it’s to forget all advice about how to do it.
 
-Enough doing marketing for the book, although the offered insight is a golden, I still feel like there's something missing, some final piece for my writing formula: It is the scaffolding - this time i stole this idea from a writing for business course by Dr. Quentin McAndrew. You can check out this course [here](https://www.coursera.org/learn/writing-for-business).
+Enough doing marketing for the book, although the offered insight is a golden, I still feel like there's something missing, some final piece for my writing formula: It is the scaffolding - this time i stole this idea from a course on writing for business by Dr. Quentin McAndrew. You can check this course out [here](https://www.coursera.org/learn/writing-for-business).
 
 It all start with thinking: by thinking, you can start generating ideas, by thinking, you should stop putting your hand on the computer - i mean i like computer but that distracts me a little bit sometimes. Thinking should be seperated from anything else. Do things only once at a time, do not multitasking and let thinking flow. So there it is, the first principle of the process: "seperate thinking from writing"
 
