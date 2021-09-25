@@ -48,9 +48,9 @@ params:
         icon: "/favicon.svg"
         iconHeight: 45
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+    analytics:
+        google:
+            SiteVerificationTag: "G-72QMFP0D0X"
 
     assets:
         favicon: "favicon.svg"
