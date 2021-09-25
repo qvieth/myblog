@@ -48,9 +48,9 @@ params:
         icon: "/favicon.svg"
         iconHeight: 45
 
-    analytics:
-        google:
-            SiteVerificationTag: "G-72QMFP0D0X"
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
 
     assets:
         favicon: "favicon.svg"
@@ -95,6 +95,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
+googleAnalytics: G-72QMFP0D0X
 
 # https://gohugo.io/content-management/taxonomies#readout
 taxonomies:
