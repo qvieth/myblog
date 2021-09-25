@@ -17,9 +17,6 @@ tags: ["writing", "insecurity", "planning"]
 
 **an idea just poped up, i think i will make a series of the many version of this post, day 1 version, day 2, etc... version so that you guys can see the changed on how i drafting and revise the post. is it worth the try guys? ask or leave something plssss!**
 
-this is definitely not a shameless plug
-
-
 When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". I belive writing would benefit me a lot with my growth: By writing, I can organize my thought, I can express my feelings better, and I would understand ideas at the deepest level.
 
 Achieving that goal wasn't as straightforward as setting it. I thought by just reading enough on the topics, on writing itself and on the issue I want to mention, I can start to write, smoothly. But when I start puttting my hands on the keyboard, as I typing the words out, that really bad kind of anxiety crept in - the insecurity boy: I'm starting worrying about how my bad grammar will be discovered and judged, worrying about the issues that being discussed are "who cares!", and worrying that the vocabulary being used is boring, dull or awkward. Then I told myself: "I can't write, at least for now; this is not the right time and the right mood; God, is this taking forever?". These thoughts have haunted me for years since i was a school boy til even now.
