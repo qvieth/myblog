@@ -15,6 +15,11 @@ tags: ["writing", "insecurity", "planning"]
 
 **update: this is day 2 and i just done my writing an hour a day chore, this is really good start. Now i need to clean up some chore of school work. Hope the next days would be this great again - Sep 25 06:51:55 AM +07 2021**
 
+**an idea just poped up, i think i will make a series of the many version of this post, day 1 version, day 2, etc... version so that you guys can see the changed on how i drafting and revise the post. is it worth the try guys? ask or leave something plssss!**
+
+this is definitely not a shameless plug
+
+
 When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". I belive writing would benefit me a lot with my growth: By writing, I can organize my thought, I can express my feelings better, and I would understand ideas at the deepest level.
 
 Achieving that goal wasn't as straightforward as setting it. I thought by just reading enough on the topics, on writing itself and on the issue I want to mention, I can start to write, smoothly. But when I start puttting my hands on the keyboard, as I typing the words out, that really bad kind of anxiety crept in - the insecurity boy: I'm starting worrying about how my bad grammar will be discovered and judged, worrying about the issues that being discussed are "who cares!", and worrying that the vocabulary being used is boring, dull or awkward. Then I told myself: "I can't write, at least for now; this is not the right time and the right mood; God, is this taking forever?". These thoughts have haunted me for years since i was a school boy til even now.
@@ -25,7 +30,7 @@ So by writing this post, I really hope this curse will finally be cured as i fin
 
 I was stucking at my own computer. Typed the words out, then deleted those, then them typed out again... everything repeated. Until I deleted the entire file, decided take a break for a while. And then I start wondering:"Is it because the topic i'm choosing is hard to write (I was writing about perfectionism at the time), or is it because my thought is too messy to be organized into a simple essay". So I think about a quote somehow appeared right at the time:
 
-> "You will write more clearly when you more clearly understand what you are writing about" - Style, The Basics of Clarity and Grace - Joseph M. Williams
+> "You will write more clearly when you more clearly understand what you are [writing](writing) about" - Style, The Basics of Clarity and Grace - Joseph M. Williams
 
 A small note on this — This book title of professor Joseph M. Williams is the my most favorite book title about writing. He described this book as *a book on writing based on your way of reading*, also many insights offered from this book are really unique. I would definitely recommend this title for my friends who are wanting to improve their writing. **Disclaimer**: I'm no specilist on this topics, this is just my gut feelings telling me this book would be good fit for those want love to write. On writing this line, another qutoe just pop out of my mind, i have to do a quick reread on the book to look for this:
 
