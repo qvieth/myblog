@@ -19,7 +19,9 @@ tags: ["writing", "insecurity", "planning"]
 
 **day 3 day3 : let's do it!!  Sun Sep 26 06:28:17 AM +07 2021 writing in this shitty mood, i just have an idea about what the next post, after finishing this one, is gonna be: Emotional inteligence and plutchik wheel, and my framework to deal with shitty emotions using plutchik wheel... that's the teaser, now back to the chore**
 
-answer to the 1st question in RFC:take a break while then still ideas, so that the time you write you won't get stuck
+**these are meta writing about analytics writing, definitely can't work with creative writing(maybe with the setting plot only). mention creative writing and show don't tell principle later**
+
+**answer to the 1st question in RFC:take a break while then still ideas, so that the time you write you won't get stuck**
 
 When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". I belive writing would benefit me a lot with my growth: By writing, I can organize my thought, I can express my feelings better, and I would understand ideas at the deepest level.
 
