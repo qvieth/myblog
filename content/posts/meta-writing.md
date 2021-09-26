@@ -17,9 +17,13 @@ tags: ["writing", "insecurity", "planning"]
 
 **an idea just poped up, i think i will make a series of the many version of this post, day 1 version, day 2, etc... version so that you guys can see the changed on how i drafting and revise the post. is it worth the try guys? ask or leave something plssss!**
 
+**day 3 day3 : let's do it!!  Sun Sep 26 06:28:17 AM +07 2021 writing in this shitty mood, i just have an idea about what the next post, after finishing this one, is gonna be: Emotional inteligence and plutchik wheel, and my framework to deal with shitty emotions using plutchik wheel... that's the teaser, now back to the chore**
+
+answer to the 1st question in RFC:take a break while then still ideas, so that the time you write you won't get stuck
+
 When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". I belive writing would benefit me a lot with my growth: By writing, I can organize my thought, I can express my feelings better, and I would understand ideas at the deepest level.
 
-Achieving that goal wasn't as straightforward as setting it. I thought by just reading enough on the topics, on writing itself and on the issue I want to mention, I can start to write, smoothly. But when I start puttting my hands on the keyboard, as I typing the words out, that really bad kind of anxiety crept in - the insecurity boy: I'm starting worrying about how my bad grammar will be discovered and judged, worrying about the issues that being discussed are "who cares!", and worrying that the vocabulary being used is boring, dull or awkward. Then I told myself: "I can't write, at least for now; this is not the right time and the right mood; God, is this taking forever?". These thoughts have haunted me for years since i was a school boy til even now.
+Achieving that goal wasn't as straightforward as setting it. I thought by just reading enough on the topics, on writing itself and on the issue I want to mention, I can start to write, smoothly. But when I start puttting my hands on the keyboard, as I typing the words out, that really bad kind of anxiety crept in - the insecurity boy: I'm starting worrying about how my bad grammar will be discovered and judged, worrying about the issues that being discussed are "who cares!", and worrying that the vocabulary being used is boring, dull or awkward. Then I told myself: "I can't write, at least for now; this is not the right time and the right mood; God, is this taking forever?". These thoughts have haunted me for years since i was a school boy til even now.(also i haven't write anything for days since i set the goal and before this topics)
 
 So by writing this post, I really hope this curse will finally be cured as i finished the the work.
 
@@ -27,29 +31,40 @@ So by writing this post, I really hope this curse will finally be cured as i fin
 
 I was stucking at my own computer. Typed the words out, then deleted those, then them typed out again... everything repeated. Until I deleted the entire file, decided take a break for a while. And then I start wondering:"Is it because the topic i'm choosing is hard to write (I was writing about perfectionism at the time), or is it because my thought is too messy to be organized into a simple essay". So I think about a quote somehow appeared right at the time:
 
-> "You will write more clearly when you more clearly understand what you are [writing](writing) about" - Style, The Basics of Clarity and Grace - Joseph M. Williams
+> "You will write more clearly when you more clearly understand what you are writing about" - Style, The Basics of Clarity and Grace - Joseph M. Williams
 
-A small note on this — This book title of professor Joseph M. Williams is the my most favorite book title about writing. He described this book as *a book on writing based on your way of reading*, also many insights offered from this book are really unique. I would definitely recommend this title for my friends who are wanting to improve their writing. **Disclaimer**: I'm no specilist on this topics, this is just my gut feelings telling me this book would be good fit for those want love to write. On writing this line, another qutoe just pop out of my mind, i have to do a quick reread on the book to look for this:
+A small note on this — This book title of professor Joseph M. Williams is the my most favorite book title about writing. He described this book as *a book about writing based on your way of reading*, also many insights offered from this book are really unique. I would definitely recommend this title for my friends who are struggling with their writing chore like me. Here's another quote i've just taken from the book:
 
 > Whenever we reflect on what we do as we do it, we become self-conscious, sometimes to the point of paralysis. It passes. You can avoid some of that paralysis if you remember that these principles have little to do with how you draft much to do with how you revise. If there is a first principle of drafting, it’s to forget all advice about how to do it.
 
-Enough doing marketing for the book, although the offered insight is a golden, I still feel like there's something missing, some final piece for my writing formula: It is the window-pane and the scaffolding - this time i stole this idea from a course on writing for business by Dr. Quentin McAndrew. You can check this course out [here](https://www.coursera.org/learn/writing-for-business).
+Enough doing marketing for the book, although the offered insight is a golden, I still feel like there's something missing, some final pieces for my writing formular: It is the window-pane and the scaffolding - this time i stole this idea from a course on writing for business by Dr. Quentin McAndrew. You can check this course out [here](https://www.coursera.org/learn/writing-for-business).
 
-The last piece I want to introduce it myself is: It all start with thinking: by thinking, you can start generating ideas, by thinking, you should stop putting your hand on the computer - I mean I like computer but that distracts me a little bit sometimes. Thinking should be seperated from anything else. Do things only once at a time, do not multitasking and let thinking flow. So there it is, the first principle of the process: "seperate thinking from writing"
+and One more last piece I came up with while i was internalizing myself: It all start with thinking: by thinking, you can start generating ideas, by thinking, you should stop putting your hand on the computer - I mean I like computer but that distracts me a little bit sometimes. There's a lot of step in the word writing itself. So to mean writing is just writing — type out the word or write down on the paper — we're skipping a lot of others detail here. it's like telling that doing marketing is just doing sales. `Many of my friends major on this so i often trigger them by saying doing marketing is sales right? haha i'm quite toxic for those who know me so well, sorry guys - this line definitely won't make it out of my final revise, this just a draft so i'm comfortable enough to put it here.`
+Thinking should be seperated from anything else. Do things only once at a time, do not multitasking: let thinking have their own thread. So there it is, the first principle of the process: "seperate thinking from writing".
+
 
 ### First principle: Seperate thinking from writing
 
-I know many writers write as they're thinking. So this is not true for these people, is it?
+`I know many writers write as they're thinking. So this is not true for these people, is it? i don't have the right mood for this part so come back next da0y`
 
 - introduce
+
 
 ### Second principle: Windowpane
 
 - clear as window pane
+ 
+- look for two image of windowpane -> 1 on rainy day -> 1 are extremely clean
+ 
+- writing is like a windowpane, so there it's is two kind of writing in this situation: the 1st window pane and the second windowpane
+- your writing should be about your ideas, not about your writing - thank you Dr Quentin, this golden idea save me a lot with my insecurity about my writing. Now i can focus on that what's important
+- ...
 
 ### Second principle: Scaffolding
 
-- introduce the scaffolding
+- image of a scaffolding
+- mention blankpage, how to overcome the fear of the blank page
+- `i'll take a break here, i can feel shitty mood is about coming, need to do some exercise and sunbathing. the advise about writing, not sure if i took it from Stephen King or some youtube guys, stop writing when there's still idea so the next time you sit down you can start with the flow, just note ideas downSun Sep 26 07:00:21 AM +07 2021`
 
 #### 1. dealing with blankpage
 
