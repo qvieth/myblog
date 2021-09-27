@@ -4,20 +4,9 @@ theme: PaperMod
 paginate: 5
 
 params:
-    homeInfoParams:
-        Title: "My blog"
-        Content: >
-            Hi! My name is Jason. I'm a Vietnamese, currently a Finance major Junior at Ming Chuan University, Taiwan.
-
-            - My interests vary: In free time, I read books 📚, talk to friends debating about different issues, or sometimes play sports or games... Topics in which I'm most interested are Mathematics, Psychology, and Artificial Intelligence.
-
-            - On this channel, you will mostly find my book reviews, my analytics on social issues or any issue I find captivating.
-
-            - I’m friendly 😉, and always open to conversations and social interactions; below are the platforms I'm most often on (you can find me here or there):
 
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    author: qvieth
     description: "Hello, I'm Viet, QVIETH is my blog. I hope you find some ideas useful to you here!"
     defaultTheme: auto
     ShowShareButtons: true
@@ -31,22 +20,6 @@ params:
     ShowCodeCopyButtons: true
     images: ["qvieth.png"]
 
-    socialIcons:
-        - name: email
-          url: "mailto:hhq.viet@gmail.com"
-        - name: twitter
-          url: "https://twitter.com/hhq_viet"
-        - name: instagram
-          url: "https://instagram.com/blueberrynotvh"
-        - name: github
-          url: "https://github.com/qvieth"
-        - name: steam
-          url: "https://steamcommunity.com/id/qvieth"
-
-    label:
-        text: "Home"
-        icon: "/favicon.svg"
-        iconHeight: 45
 
     # analytics:
     #     google:
@@ -67,7 +40,18 @@ outputs:
 
 languages:
     en:
-        languageName: "English"
+        homeInfoParams:
+            Title: "My blog"
+            Content: >
+                Hi! My name is Jason. I'm a Vietnamese, currently a Finance major Junior at Ming Chuan University, Taiwan.
+
+                - My interests vary: In free time, I read books 📚, talk to friends debating about different issues, or sometimes play sports or games... Topics in which I'm most interested are Mathematics, Psychology, and Artificial Intelligence.
+
+                - On this channel, you will mostly find my book reviews, my analytics on social issues or any issue I find captivating.
+
+                - I’m friendly 😉, and always open to conversations and social interactions; below are the platforms I'm most often on (you can find me here or there):
+        languageName: "En"
+        author: Jason
         weight: 1
         menu:
             main:
@@ -88,6 +72,63 @@ languages:
                   weight: 20
                 # - name: NullLink
                 #   url: "#"
+        socialIcons:
+            - name: email
+              url: "mailto:hhq.viet@gmail.com"
+            # - name: facebook
+            #   url: "https://www.facebook.com/blueberry.not.viethuynh/"
+            - name: twitter
+              url: "https://twitter.com/hhq_viet"
+            # - name: instagram
+            #   url: "https://instagram.com/blueberrynotvh"
+            - name: github
+              url: "https://github.com/qvieth"
+            - name: steam
+              url: "https://steamcommunity.com/id/qvieth"
+
+        label:
+            text: "Home"
+            icon: "/favicon.svg"
+            iconHeight: 45
+
+    vi:
+        # homeInfoParams:
+        profileMode:
+            enabled: true
+            title: Huỳnh Hà Quốc Việt
+            imageUrl: "/avatar.jpg"
+            imageTitle: image
+            imageWidth: 120
+            imageHeight: 120
+            subtitle: >
+              Xin chào! Mình là Việt, một người Việt Nam, hiện đang là sinh viên chuyên ngành Tài chính tại Đại học Minh Truyền, Đài Loan.
+
+              Tại đây Việt sẽ chia sẽ về cuộc sống, quá trình truởng thành của bản thân, đồng thời sẽ trả lời và thảo luận về bất kì chủ đề gì bạn muốn nhé.
+              
+            buttons:
+                - name: Bấm vào đây để thấy sự hay ho!
+                  url: posts
+        languageName: "Vi"
+        author: Việt Huỳnh
+        weight: 1
+        menu:
+            main:
+                - name: Lưu Trữ
+                  url: archives
+                  weight: 5
+                - name: Tags
+                  url: tags/
+                  weight: 7
+                - name: Q&A
+                  url: qa/
+                  weight: 10
+                - name: Tìm Kiếm
+                  url: search/
+                  weight: 15
+        label:
+            text: "Trang chủ"
+            icon: "/favicon.svg"
+            iconHeight: 45
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
