@@ -5,7 +5,7 @@ draft: false
 date: 2021-09-24T17:02:54+07:00
 # categories: [""]
 # series: [""]
-tags: ["writing", 
+tags: ["writing","meta"]
 # weight: 1
 # must seperate thinking from writing, only write after finished thinking
 # blankpage -> purpose -> signpost -> drafting -> revising
