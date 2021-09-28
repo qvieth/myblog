@@ -1,6 +1,6 @@
 ---
 title: Meta Writing
-summary: A writing on writing
+summary: A writing about writing
 draft: false
 date: 2021-09-24T17:02:54+07:00
 # categories: [""]
@@ -13,11 +13,15 @@ tags: ["writing","meta"]
 
 **DRAFT -> not finished, come back when i have time, tommorow maybe, put it here so my blog looks like it is not dead**
 
-When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". `make it clear why 1 hour a day` I belive writing would benefit me a lot with my growth: By writing, I can organize my thought, I can express my feelings better, and I would understand ideas at the deepest level.
+When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". `make it clear why 1 hour a day` I belive writing would benefit me a lot with my growth: By writing, I can organize my thought; I can express my feelings better; and I would understand ideas at the deepest level.
 
-Achieving that goal wasn't as straightforward as setting it. I thought by just reading enough on the topics, on writing itself and on the issue I want to mention, I can start to write as smooth as butter. But when I start puttting my hands on the keyboard, as I typing the words out, that really bad kind of anxiety crept in - the insecurity boy: I'm starting worrying about how my bad grammar will be discovered and judged, worrying about the issues that being discussed are "who cares!", and worrying that the vocabulary being used is boring, dull or awkward. Hence I told myself: "I can't write, at least for now; this is not the right time and the right mood; God, is this taking forever?". These thoughts have haunted me for years since i was a school boy til even now.
+Achieving that goal wasn't as straightforward as setting it. I thought by just reading enough on the topics, on writing itself and on the issue I want to mention, I can start to write as smooth as butter. But when I start puttting my hands on the keyboard, as I typing the words out, that really bad kind of anxiety crept in - the insecurity boy: I'm starting worrying about how my bad grammar will be discovered and judged, worrying about the issues that being discussed are "who cares!", and worrying that the vocabulary being used is boring, dull or awkward. And I told myself: "I can't write, at least for now; this is not the right time and the right mood; God, is this taking forever?". These thoughts have haunted me for years since i was a school boy til even now.
 
-And for this reason, I want to end the curse, cure it, when I shall finish this work - a reminder letter for myself.
+For that reason, I labeled myself as a bad writer. What's more, as a consequence, when it comes to actions that requires communications, I also labeled myself as a bad one. Because I don't practice. Because I avoid doing so.
+
+And now, I'm writing these out, a writing about writing, as a way to revise the lessons I learned but haven't put into practice. I want this post to be a foundation where all my future posts will be built upon. `need a thesis statement here` [comeback later here](https://www.masterclass.com/articles/how-to-write-an-analytical-essay#how-to-write-an-analytical-essay-in-7-steps)
+
+`reread style bocag`
 
 ## Writing is a process
 
@@ -35,7 +39,7 @@ I want to leave a small note on this book title of professor Joseph M. Williams:
 
 Thank for the quote, now i can continue my writing daringly. Enough promoting, although the offered insight is golden, I still feel like there's something missing, some final pieces for my writing formular: I just figured it out it is the window-pane and the scaffolding - this time i stole this idea from a course on writing for business by Dr. Quentin McAndrew. You can check this course out [here](https://www.coursera.org/learn/writing-for-business). Again this is a course on business writing, so many of these principle i don't think they can work well with creative writing, if you are struggling with creative writing then i don't think this post is for you.
 
-`this part quite dull, need a little bit revise`
+`this part(or the entire post idk) is quite dull, need a little bit revise`
 and One more last piece I came up with while i was internalizing myself: It all start with thinking: by thinking, you can start generating ideas, by thinking, you should stop putting your hand on the computer - I mean I like computer but that distracts me a little bit sometimes. There's a lot of step in the word writing itself. So to mean writing is just writing — type out the word or write down on the paper — we're skipping a lot of others detail here. it's like telling that doing marketing is just doing sales.
 Thinking should be seperated from anything else. Do things only once at a time, do not multitasking: let thinking have their own thread. So there it is, the first principle of the process: "seperate thinking from writing".
 
@@ -94,3 +98,4 @@ blankpage -> purpose -> signpost -> drafting -> revising
 **day 3 day3 : let’s do it!! Sun Sep 26 06:28:17 AM +07 2021 writing in this shitty mood, i just have an idea about what the next post, after finishing this one, is gonna be: Emotional inteligence and plutchik wheel, and my framework to deal with shitty emotions using plutchik wheel… that’s the teaser, now back to the chore**
 
 **day 4: thank god another hour ended. Mon Sep 27 07:22:49 AM +07 2021**
+**day 5: god this would take forever!!  Tue Sep 28 10:20:03 PM +07 2021**
