@@ -43,13 +43,13 @@ languages:
         homeInfoParams:
             Title: "My blog"
             Content: >
-                Hi! My name is Jason. I'm a Vietnamese, currently a Finance major Junior at Ming Chuan University, Taiwan.
+                Hi! I'm Jason, a Vietnamese, currently a Finance Junior at MCU, Taipei.
 
-                - My interests vary: In free time, I read books 📚, talk to friends debating about different issues, or sometimes play sports or games... Topics in which I'm most interested are Mathematics, Psychology, and Artificial Intelligence.
+                - My interests vary: In free time, I read books 📚, play sports or games, also talk to friends debating about different issues. Topics in which I'm most interested are Mathematics, Psychology, and AI.
 
                 - On this channel, you will mostly find my book reviews, my analytics on social issues or any issue I find captivating.
 
-                - I’m friendly 😉, and always open to conversations and social interactions; below are the platforms I'm most often on (you can find me here or there):
+                - I’m friendly 😉, and always open to conversations or social interactions.
         languageName: "English"
         author: Jason
         weight: 1
@@ -75,10 +75,10 @@ languages:
         socialIcons:
             - name: email
               url: "mailto:hhq.viet@gmail.com"
-            # - name: facebook
-            #   url: "https://www.facebook.com/blueberry.not.viethuynh/"
-            - name: twitter
-              url: "https://twitter.com/hhq_viet"
+            - name: facebook
+              url: "https://www.facebook.com/blueberry.not.viethuynh/"
+            # - name: twitter
+            #   url: "https://twitter.com/hhq_viet"
             # - name: instagram
             #   url: "https://instagram.com/blueberrynotvh"
             - name: github
