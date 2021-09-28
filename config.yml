@@ -75,8 +75,8 @@ languages:
         socialIcons:
             - name: email
               url: "mailto:hhq.viet@gmail.com"
-            - name: facebook
-              url: "https://www.facebook.com/blueberry.not.viethuynh/"
+            # - name: facebook
+            #   url: "https://www.facebook.com/blueberry.not.viethuynh/"
             # - name: twitter
             #   url: "https://twitter.com/hhq_viet"
             # - name: instagram
