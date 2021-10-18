@@ -14,6 +14,7 @@ tags: ["writing","meta"]
 **DRAFT -> not finished, come back when i have time, tommorow maybe, put it here so my blog looks like it is not dead**
 
 
+`should make it more like a conversionation, right now it's too like a writing, feels dull`
 When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". `make it clear why 1 hour a day` I belive writing would benefit me a lot with my growth: By writing, I can organize my thought; I can express my feelings better; and I would understand ideas at the deepest level.
 
 Achieving that goal wasn't as straightforward as setting it. I thought by just reading enough on the topics, on writing itself and on the issue I want to mention, I can start writing worriless. But when I start puttting my hands on the keyboard, as I typing the words out, that really bad kind of anxiety crept in - the insecurity boy: I'm starting worrying about how my bad grammar will be discovered and judged, worrying about the issues that being discussed are "who cares!", and worrying that the vocabulary being used is boring, dull or awkward. And I told myself: "I can't write, at least for now; this is not the right time and the right mood; God, is this taking forever?". These thoughts have haunted me for years since i was a school boy til even now.
