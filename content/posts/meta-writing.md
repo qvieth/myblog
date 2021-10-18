@@ -94,14 +94,3 @@ the framework
 seperate thinking from writing, only write after finished thinking
 blankpage -> purpose -> signpost -> drafting -> revising
 ```
-
-
-**an idea just poped up, i think i will make a series of the many version of this post, day 1 version, day 2, etc… version so that you guys can see the changed on how i drafting and revise the post. is it worth the try ? ask or leave something plssss!**
-
-**day 3 day3 : let’s do it!! Sun Sep 26 06:28:17 AM +07 2021 writing in this shitty mood, i just have an idea about what the next post, after finishing this one, is gonna be: Emotional inteligence and plutchik wheel, and my framework to deal with shitty emotions using plutchik wheel… that’s the teaser, now back to the chore**
-
-**day 4: thank god another hour ended. Mon Sep 27 07:22:49 AM +07 2021**
-**day 5: god this would take forever!!  Tue Sep 28 10:20:03 PM +07 2021**
-day 6: skipped
-day 7: **Thu Sep 30 05:17:16 PM +07 2021 also skipped, but put in little thought for the next days:, need to read more,also i think i need to change the approach, nextposts topics has to be narrowed down. a book reviews is quite arrogant, should do a book chapter review only finish the reinterpreting of coursera course first -> easiest for now** 
-

@@ -47,7 +47,7 @@ languages:
 
                 - My interests vary: In free time, I read books📚, play sports or games, or talk to friends debating about different issues. Topics in which I'm most interested are Mathematics, Psychology, and AI.
 
-                - On this channel, you'll find my book reviews, my analytics on social issues or any issue I find captivating.
+                - On this channel, you'll find my book reviews, my analysis on social issues or any issue I find captivating.
 
                 - I’m friendly😉, and always open to conversation or social interaction.
         languageName: "English"
@@ -75,12 +75,12 @@ languages:
         socialIcons:
             - name: email
               url: "mailto:hhq.viet@gmail.com"
-            # - name: facebook
-            #   url: "https://www.facebook.com/blueberry.not.viethuynh/"
+            - name: facebook
+              url: "https://www.facebook.com/blueberry.not.viethuynh/"
             # - name: twitter
             #   url: "https://twitter.com/hhq_viet"
-            # - name: instagram
-            #   url: "https://instagram.com/blueberrynotvh"
+            - name: instagram
+              url: "https://instagram.com/blueberrynotvh"
             - name: github
               url: "https://github.com/qvieth"
             - name: steam
