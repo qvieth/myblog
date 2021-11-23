@@ -41,15 +41,9 @@ outputs:
 languages:
     en:
         homeInfoParams:
-            Title: "My blog"
+            Title: "My Website"
             Content: >
-                Hi! I'm Jason, a Vietnamese, currently a Junior at MCU, Taipei.
-
-                - My interests vary: In free time, I read books📚, play sports or games, or talk to friends debating about different issues. Topics in which I'm most interested are Mathematics, Psychology, and AI.
-
-                - On this channel, you'll find my book reviews, my analysis on social issues or any issue I find captivating.
-
-                - I’m friendly😉, and always open to conversation or social interaction.
+              404
         languageName: "English"
         author: Jason
         weight: 1
@@ -101,13 +95,11 @@ languages:
             imageWidth: 120
             imageHeight: 120
             subtitle: >
-              Xin chào! Mình là Việt, một người Việt Nam, hiện đang là sinh viên chuyên ngành Tài chính tại Đại học Minh Truyền, Đài Loan.
-
-              Tại đây Việt sẽ chia sẽ về cuộc sống, quá trình truởng thành của bản thân, đồng thời sẽ trả lời và thảo luận về bất kì chủ đề gì bạn muốn nhé.
+              404
               
-            buttons:
-                - name: Bấm vào đây để thấy sự hay ho!
-                  url: posts
+            # buttons:
+            #     - name: Bấm vào đây để thấy sự hay ho!
+            #       url: posts
         languageName: "Tiếng Việt"
         author: Việt Huỳnh
         weight: 1

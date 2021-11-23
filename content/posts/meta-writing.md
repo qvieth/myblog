@@ -1,7 +1,7 @@
 ---
 title: Meta Writing
 summary: A writing about writing
-draft: false
+draft: true
 date: 2021-09-24T17:02:54+07:00
 # categories: [""]
 # series: [""]
