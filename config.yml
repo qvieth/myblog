@@ -49,9 +49,6 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Search
-                  url: search/
-                  weight: 1
                 - name: Archive
                   url: archives
                   weight: 5
@@ -64,8 +61,8 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 15
-                - name: MYNOTE
-                  url: mynote/
+                - name: Search
+                  url: search/
                   weight: 20
                 # - name: NullLink
                 #   url: "#"
@@ -82,6 +79,8 @@ languages:
               url: "https://github.com/qvieth"
             - name: steam
               url: "https://steamcommunity.com/id/qvieth"
+            - name: other
+              url: "https://qvieth.github.io/mynote"
 
         label:
             text: "Home"
