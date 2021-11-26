@@ -79,8 +79,8 @@ languages:
               url: "https://github.com/qvieth"
             - name: steam
               url: "https://steamcommunity.com/id/qvieth"
-            - name: other
-              url: "https://qvieth.github.io/mynote"
+            # - name: other
+            #   url: "https://qvieth.github.io/mynote"
 
         label:
             text: "Home"
