@@ -41,7 +41,7 @@ outputs:
 languages:
     en:
         homeInfoParams:
-            Title: "My Book Review Corner"
+            Title: "My Book Summary & Review Corner"
             Content: >
               404
         languageName: "English"
