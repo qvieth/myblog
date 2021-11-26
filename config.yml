@@ -49,6 +49,9 @@ languages:
         weight: 1
         menu:
             main:
+                - name: Search
+                  url: search/
+                  weight: 1
                 - name: Archive
                   url: archives
                   weight: 5
@@ -61,8 +64,8 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 15
-                - name: Search
-                  url: search/
+                - name: MYNOTE
+                  url: mynote/
                   weight: 20
                 # - name: NullLink
                 #   url: "#"
@@ -97,9 +100,9 @@ languages:
             subtitle: >
               404
               
-            # buttons:
-            #     - name: Bấm vào đây để thấy sự hay ho!
-            #       url: posts
+            buttons:
+                - name: Bấm vào đây để thấy sự hay ho!
+                  url: posts
         languageName: "Tiếng Việt"
         author: Việt Huỳnh
         weight: 1
