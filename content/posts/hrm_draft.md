@@ -82,5 +82,5 @@ this study examined the **motivational correlates** of workaholism, work engagem
 
 Workaholic vs work engagement vs burnout
 
-Although the associations among motivational regulation and job-related well-being are more complex than was anticipated, -> state out the anticipated
-the present study demonstrated that workaholism, work engagement, and burnout are each associated with a prototypical underlying motivational regulation.
+correlations of motivational regulation and job-related well-being are more complex than was anticipated
+the present study demonstrated job-related well-being are each associated with a prototypical underlying motivational regulation.
