@@ -13,16 +13,15 @@ categories: ["Uncategorized"]
 
 ## discussion
 
-- this study examines the correlation of **different types of motivation** defined in SDT and **job-related well-being**
-
-### 4 interesting findings:
-
 ---
 
-1. workaholism +> extrinsic motivation , workaholism +> identified regulation
-2. work engagement +> intrinsic motivation
-3. work engagement +> extrinsic motivation
-4. burnout -> intrinsic motivation and autonomous extrinsic motivation, burnout +> introjected regulation for physician group only(not the nurse)
+### Findings:
+
+- while examining the correlation of **different types of motivation** defined in SDT and **job-related well-being**, there are 4 interesting findings
+  1. workaholism +> extrinsic motivation , workaholism +> identified regulation
+  2. work engagement +> intrinsic motivation
+  3. work engagement +> extrinsic motivation
+  4. burnout -> intrinsic motivation and autonomous extrinsic motivation, burnout +> introjected regulation for physician group only(not the nurse)
 
 ---
 
