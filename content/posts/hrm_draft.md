@@ -52,15 +52,15 @@ clarify amotivation using SDT
 
 ## theoretical and practical implications
 
-The present study provide both theoretical and practical implications, also extends previous research in at least three ways.
+The present study provide both theoretical and practical implications
 
 ### - theoretical implications:
 
-1. First, theoretical implication: it is the first to uncover the motivational correlates of workaholism, work engagement, and burnout using SDT and to show that these correlates differ substantially and meaningfully.
+1. it is the first to uncover the motivational correlates of workaholism, work engagement, and burnout using SDT and to show that these correlates differ substantially and meaningfully.
 
    - Although workaholic employees are basically extrinsically motivated, engaged employees are both extrinsically and intrinsically motivated.
 
-2. Second, the present study provides indirect evidence for SDT's assumption
+2. the present study provides indirect evidence for SDT's assumption
 
    - that human beings are active, growth-oriented organisms and that fostering this tendency leads to optimal functioning and well-being, whereas thwarting it leads to adverse outcomes.
 
@@ -68,10 +68,13 @@ The present study provide both theoretical and practical implications, also exte
 
 ### - practical impliications:
 
-3. Third, the present study provides directions for practical use. Since work engagement is linked to beneficial outcomes at the individual and organisational levels
+3. the present study provides directions for practical use. Since work engagement is linked to beneficial outcomes at the individual and organisational levels
+   - The present study suggests that fostering autonomous motivation +> work engagement and -> in workaholism and burnout.
 
-   - The present study suggests that fostering autonomous motivation may simultaneously lead to an increase in work engagement and a decrease in workaholism and burnout.
-   - One way to achieve this is by making jobs more attractive and challenging to employees, and adopting an autonomy-supportive management style that includes being emphatic, offering choices, and providing meaningful rationales for doing particular tasks
+=> to achieve this:
+
+- making jobs more attractive and challenging to employees,
+- adopting an autonomy-supportive management style (being emphatic, offering choices, and providing meaningful rationales for doing particular tasks)
 
 ---
 
