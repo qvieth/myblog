@@ -52,7 +52,7 @@ clarify amotivation using SDT
 
 ## theoretical and practical implications
 
-## The present study provide both theoretical and practical implications, also extends previous research in at least three ways.
+The present study provide both theoretical and practical implications, also extends previous research in at least three ways.
 
 ### - theoretical implications:
 
@@ -77,7 +77,7 @@ clarify amotivation using SDT
 
 ## conclusion comments
 
-this study examined the **motivational correlates** of workaholism, work engagement, and burnout
+this study examined the **motivational correlates** of job-related well-being.
 
 Workaholic vs work engagement vs burnout
 
