@@ -50,9 +50,9 @@ clarify amotivation using SDT
 
 our suggestion:
 
-1. self report inflated the associations among the study variables -> field study
-2. cross-sectional design -> longitudinal
-3. homogeneous sample of Chinese medical professionals. These professionals worked at only 4 different hospitals, same medium size city in china -> the correlation might be strongly affected by the cultural and working environment of these company, also the nature of the job position nurse and physician
+1. self report inflated the associations among the study variables => field study
+2. homogeneous sample of Chinese medical professionals. These professionals worked at only 4 different hospitals, same medium size city in china -> the correlation might be strongly affected by the cultural and working environment of these company, also the nature of the job position nurse and physician
+3. cross-sectional design => longitudinal
 
 ---
 
