@@ -14,11 +14,19 @@ categories: ["Uncategorized"]
 restructure the business plan:
 
 - current structure:
-  - inroduction
-  - business plan and analysis
-  - marketing strateg
+  1. inroduction
+  2. business plan and analysis
+  3. marketing strateg
+- new structure:
+  1. What need are you addressing?
+  2. What makes you different?
+  3. Who is your audience?
+  4. How is your business going to make money?
+  5. How will you promote your business?
+  6. What do you need to get started?
+  7. Appendix
 
-new structure for the business plan, i think it is easier to read and more logical, also each part i have suggestion what to add(the box untick is the suggestion, for example the competitive advantage part we should use SWOT or porter five factor to analyze the situation)
+new structure for the business plan, i like this structure more, the idea is more well-organized and easier to grasp for me. also each part i have suggestion what to add(the box untick is the suggestion, for example the competitive advantage part we should use SWOT or porter five factor to analyze the situation)
 
 so we will still keep the ideas which has been already written, we will just to reposition them to the new structure for example
 
@@ -56,7 +64,7 @@ Pesticides can enter the human body through inhalation of aerosols, dust, and va
 
 Therefore, our product “Moonee” is believed to be able to solve this problem. It helps living creatures to have a healthy life and as well as to ensure the products/ food that they bought are organic. The company’s mission is to provide organic food to help the environment by 2040.
 
-- The idea is to create an online e-commerce platform that provides “same-day delivery” to ensure the food's freshness. ((In this e-commerce platform, there is a subscription fee which is $NTD 99 a month)). The delivery method that the company uses will be couriers using scooters and truck boxes if the order exceeds the capacity. The couriers will be given a portable cool box to carry the food and/or ingredients. The customer can order it anywhere and anytime, and the ingredients will arrive the next day. For example, if an individual orders the ingredients at 10pm, the grocery will arrive at the individual house in the morning.
+The idea is to create an online e-commerce platform that provides “same-day delivery” to ensure the food's freshness. ((In this e-commerce platform, there is a subscription fee which is $NTD 99 a month)). The delivery method that the company uses will be couriers using scooters and truck boxes if the order exceeds the capacity. The couriers will be given a portable cool box to carry the food and/or ingredients. The customer can order it anywhere and anytime, and the ingredients will arrive the next day. For example, if an individual orders the ingredients at 10pm, the grocery will arrive at the individual house in the morning.
 
 ## 2. What makes you different?
 
@@ -93,7 +101,7 @@ In the paragraph before, it shows some of the competitive advantages that the co
 - [ ] Do they rely on traditional advertising or online marketing?
 - [ ] Do they attend tradeshows and local events, or use technology to spread the word about their existence?
 
-Marketing Strategy
+**Marketing Strategy**
 
 note : this part is to answer question number 10-11
 
@@ -101,7 +109,7 @@ For the e-commerce platform, the company will use google analytics or google key
 Not only will the company rely on the website for the marketing strategy but the company will also rely on the social media platform for the marketing strategy. The company will hire some famous social media influencers (take turns) and to use them continuously for around 6 months. The purpose of this continuous marketing is to ensure that the hype only lasts for a moment, but rather it will last forever and to let them have customers with brand loyalty.
 The social media that the company will use is Facebook. The reason behind Facebook is because it provides an advanced business advertisement. While the reason behind Instagram is due to the popularity within the youth. The purpose why the company focuses more on the youth is because the youth is the future of the world.
 
-Business promotion plan
+**Business promotion plan**
 
 Subscription fee: $NTD99
 
