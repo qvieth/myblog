@@ -11,7 +11,7 @@ categories: ["Uncategorized"]
 # blankpage -> purpose -> signpost -> drafting -> revising
 ---
 
-restructure the business plan:
+restructure the business plan google-docs(we can also use this structure for the presention ppt):
 
 - current structure:
   1. inroduction
