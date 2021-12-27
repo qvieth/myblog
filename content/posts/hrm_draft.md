@@ -1,5 +1,5 @@
 ---
-title: DISCUSSION PART
+title: HRM DISCUSSION PART
 summary: for quick referencing
 draft: false
 date: 2021-10-25T18:19:40+07:00
