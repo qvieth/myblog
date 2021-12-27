@@ -12,6 +12,7 @@ categories: ["Uncategorized"]
 ---
 
 restructure the business plan:
+
 - current structure:
   - inroduction
   - business plan and analysis
@@ -21,9 +22,10 @@ new structure for the business plan, i think it is easier to read and more logic
 
 so we will still keep the ideas which has been already written, we will just to reposition them to the new structure for example
 
-for example: 
+for example:
+
 - X is the idea of Celia
-- the current situation:
+- the current position of X:
   - 1 X 2 3 4 5
 - we move X to another place
   - 1 2 3 4 X 5 like this, now x move to between 4 and 5
@@ -132,6 +134,7 @@ Voucher includes a variety of vouchers, including
 # draft
 
 - other checklist: https://greenbay.score.org/resource/business-plan-checklist-key-questions-answer
+
   - pick anything you think important and add to the structure here. might use this checklist to ask other team.
 
 - Consider Amazon. It began as an online bookstore. Then it morphed into a vast online discount retailer, selling everything from food to clothing.
