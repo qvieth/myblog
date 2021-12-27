@@ -41,6 +41,9 @@ https://www.entrepreneur.com/article/242596 <- the structure taken from here
 
 ## 1. What need are you addressing?
 
+- [ ] be logical and critical when you consider the driving force behind your customers’ purchasing decisions: what fundamental customer need is your business addressing?
+- [ ] maybe back this up with research that shows the need actually exists.
+
 In Taiwan, organic food production is considered rare. What is considered organic food is the restriction of the usage of certain pesticides and fertilizers in farming methods. Organic foods typically are not processed using irradiation, industrial solvents, or synthetic food additives.
 
 Pesticides are harmful to the environment. Pesticides are toxic chemicals meant to kill pest species, however, they can affect non-target species, such as plants, animals, and humans. Environmental modeling indicates that over 60% of global agricultural land is currently at risk of pesticide pollution by more than one active ingredient.
@@ -52,9 +55,6 @@ Not only birds but aquatic life is also disrupted by pesticide-contaminated wate
 Pesticides can enter the human body through inhalation of aerosols, dust, and vapor that contain pesticides. Every human contains pesticides in its fat cells. However, compare to adults, children are more vulnerable to pesticides due to the development of the body and weaker immune systems.
 
 Therefore, our product “Moonee” is believed to be able to solve this problem. It helps living creatures to have a healthy life and as well as to ensure the products/ food that they bought are organic. The company’s mission is to provide organic food to help the environment by 2040.
-
-- [ ] be logical and critical when you consider the driving force behind your customers’ purchasing decisions: what fundamental customer need is your business addressing?
-- [ ] maybe back this up with research that shows the need actually exists.
 
 - The idea is to create an online e-commerce platform that provides “same-day delivery” to ensure the food's freshness. ((In this e-commerce platform, there is a subscription fee which is $NTD 99 a month)). The delivery method that the company uses will be couriers using scooters and truck boxes if the order exceeds the capacity. The couriers will be given a portable cool box to carry the food and/or ingredients. The customer can order it anywhere and anytime, and the ingredients will arrive the next day. For example, if an individual orders the ingredients at 10pm, the grocery will arrive at the individual house in the morning.
 
@@ -130,8 +130,6 @@ Voucher includes a variety of vouchers, including
 - [ ] mission statement
 - [ ] milestone
 - [ ] any things other than the first 6 question
-
----
 
 # draft
 
