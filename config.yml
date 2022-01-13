@@ -7,7 +7,7 @@ params:
 
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Hello, I'm Viet, QVIETH is my blog. I hope you find some ideas useful to you here!"
+    description: "Hello, I'm Viet aka Jason, QVIETH is my blog. I hope you find some ideas useful to you here!"
     defaultTheme: auto
     ShowShareButtons: true
     ShowReadingTime: true
@@ -43,7 +43,7 @@ languages:
         homeInfoParams:
             Title: "My Book Summary & Review Corner"
             Content: >
-              404
+              Hello! I'm Jason. Here, I will write review on novel and summary on non-fiction books I read. I hope you will find something useful here! (although that chance is very unlikely...) 
         languageName: "English"
         author: Jason
         weight: 1
@@ -97,7 +97,7 @@ languages:
             imageWidth: 120
             imageHeight: 120
             subtitle: >
-              404
+              Sin lui, hien tai phien ban tieng viet van chua duoc dua vao hoat dong, mong ban thong cam
               
             buttons:
                 - name: Bấm vào đây để thấy sự hay ho!

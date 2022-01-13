@@ -1,6 +1,6 @@
 ---
 title: A Request For Comments
-summary: Dear My Avid Readers...   
+summary: Dear My Avid Readers...
 draft: false
 date: 2021-09-24T20:21:02+07:00
 categories: ["Uncategorized"]
