@@ -1,8 +1,8 @@
 ---
 title: IOPdraft
-summary: 
+summary:
 draft: false
-date: 2021-09-24T20:21:02+07:00
+date: 2022-09-24T20:21:02+07:00
 categories: ["Uncategorized"]
 # series: [""]
 # tags: [""]
@@ -26,7 +26,7 @@ categories: ["Uncategorized"]
 
 ## rating for how important each key task was
 
-- importance not impant at all(1-4)really important:
+- importance: not important at all(1-4)really important:
   - [2] cleaning
   - [3] serving coffee
   - [4] learning new boardgames rules
