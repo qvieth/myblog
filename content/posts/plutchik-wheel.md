@@ -1,7 +1,7 @@
 ---
 title: arguable statement or question
 summary: introduction that draw interest
-draft: true
+draft: false
 date: 2021-09-27T21:11:31+07:00
 categories: ["Uncategorized"]
 # series: [""]
@@ -19,7 +19,7 @@ https://www.6seconds.org/2020/08/11/plutchik-wheel-emotions/
 
 emotional inteligence
 
-how to use plutchik wheel 
+how to use plutchik wheel
 
 share something
 
