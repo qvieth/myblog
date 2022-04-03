@@ -8,7 +8,7 @@ params:
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Hello, I'm Viet aka Jason, QVIETH is my blog. I hope you find some ideas useful to you here!"
-    defaultTheme: dark
+    defaultTheme: light
     ShowShareButtons: true
     ShowReadingTime: true
     ShowToc: true
