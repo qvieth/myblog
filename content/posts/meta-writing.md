@@ -1,18 +1,17 @@
 ---
-title: Meta Writing
-summary: A writing about writing
+title: Why I write and How I learned it from sratch
+summary: test
 draft: false
 date: 2021-09-24T17:02:54+07:00
 # categories: [""]
 # series: [""]
-tags: ["writing","meta"]
+tags: ["writing", "meta"]
 # weight: 1
 # must seperate thinking from writing, only write after finished thinking
 # blankpage -> purpose -> signpost -> drafting -> revising
 ---
 
 **DRAFT -> not finished, come back when i have time, tommorow maybe, put it here so my blog looks like it is not dead**
-
 
 `should make it more like a conversionation, right now it's too like a writing, feels dull`
 When I created this blog, I wanted it to be a stimulus for me to achieve a goal - "to write at least an hour a day". `make it clear why 1 hour a day` I belive writing would benefit me a lot with my growth: By writing, I can organize my thought; I can express my feelings better; and I would understand ideas at the deepest level.
@@ -37,7 +36,7 @@ Thank god i just look back reread my most favorite book on writing, a quote that
 
 I did spent lot of time on the writing topic, not as much, if not insignificant on the perfectionism topic - the last topic i was trying to write about. So by change the topic to what i'm more confident, i begin to less worrry about the "clearly understand what you writing about" part.
 
-I want to leave a small note on this book title of professor Joseph M. Williams: He described this book as *a book about writing based on your way of reading*, also many insights offered from this book are really unique. I would definitely recommend this book for my those who are struggling with writing chore, like me. I haven't fully grasph all the ideas of the book, but i'll leave it there and comeback everytime i stuggling on writing. I've just comeback and take one more quote:
+I want to leave a small note on this book title of professor Joseph M. Williams: He described this book as _a book about writing based on your way of reading_, also many insights offered from this book are really unique. I would definitely recommend this book for my those who are struggling with writing chore, like me. I haven't fully grasph all the ideas of the book, but i'll leave it there and comeback everytime i stuggling on writing. I've just comeback and take one more quote:
 
 > Whenever we reflect on what we do as we do it, we become self-conscious, sometimes to the point of paralysis. It passes. You can avoid some of that paralysis if you remember that these principles have little to do with how you draft much to do with how you revise. If there is a first principle of drafting, it’s to forget all advice about how to do it.
 
@@ -47,20 +46,20 @@ Thank for the quote, now i can continue my writing daringly. Enough promoting, a
 and One more last piece I came up with while i was internalizing myself: It all start with thinking: by thinking, you can start generating ideas, by thinking, you should stop putting your hand on the computer - I mean I like computer but that distracts me a little bit sometimes. There's a lot of step in the word writing itself. So to mean writing is just writing — type out the word or write down on the paper — we're skipping a lot of others detail here. it's like telling that doing marketing is just doing sales.
 Thinking should be seperated from anything else. Do things only once at a time, do not multitasking: let thinking have their own thread. So there it is, the first principle of the process: "seperate thinking from writing".
 
-
 ### First principle: Seperate thinking from writing
 
-I know many writers write as they're thinking. So this is not true for these people, is it? 
+I know many writers write as they're thinking. So this is not true for these people, is it?
 
 `comeback next day`
+
 - introduce
 
 ### Second principle: Windowpane
 
 - clear as window pane
- 
+
 - look for two image of windowpane -> 1 on rainy day -> 1 are extremely clean
- 
+
 - writing is like a windowpane, so there it's is two kind of writing in this situation: the 1st window pane and the second windowpane
 - your writing should be about your ideas, not about your writing - thank you Dr Quentin, this golden idea save me a lot with my insecurity about my writing. Now i can focus on that what's important
 - ...
