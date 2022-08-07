@@ -43,7 +43,7 @@ languages:
         homeInfoParams:
             Title: "My Book Summary & Review Corner"
             Content: >
-              Hello! I'm Jason. Here, I will write review on novel and summary on non-fiction books I read. I hope you will find something useful here! (although that chance is very unlikely...) 
+              Hello! I'm Jason. Here, I will write review on novel and summary on non-fiction books I read. I hope you will find something useful here! 
         languageName: "English"
         author: Jason
         weight: 1
