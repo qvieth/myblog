@@ -1,7 +1,7 @@
 ---
 title: Why I write and How I learned it from sratch
 summary: test
-draft: false
+draft: true
 date: 2021-09-24T17:02:54+07:00
 # categories: [""]
 # series: [""]

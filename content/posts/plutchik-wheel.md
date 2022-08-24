@@ -1,7 +1,7 @@
 ---
 title: arguable statement or question
 summary: introduction that draw interest
-draft: false
+draft: true
 date: 2021-09-27T21:11:31+07:00
 categories: ["Uncategorized"]
 # series: [""]
